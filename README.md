@@ -8,7 +8,7 @@ Initially developed on
 ## Getting Started
 
 Following are the prerequisites on the target computer for the project implementation
-![image](https://user-images.githubusercontent.com/84670032/210357978-6060d1be-1b45-495a-903b-28d6a7194ae3.png)
+[image](https://user-images.githubusercontent.com/84670032/210357978-6060d1be-1b45-495a-903b-28d6a7194ae3.png)
 
 
 ## Running the tests
