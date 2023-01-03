@@ -2,7 +2,7 @@
 
 One Paragraph of the project description
 
-Initially made on
+Initially developed on
 [CodeSandbox.io](https://codesandbox.io/s/github/rahulb813/server-authentication).
 
 ## Getting Started
