@@ -8,8 +8,15 @@ Initially developed on
 ## Getting Started
 
 Following are the prerequisites on the target computer for the project implementation
-[image](https://user-images.githubusercontent.com/84670032/210357978-6060d1be-1b45-495a-903b-28d6a7194ae3.png)
-
+ 
+- [bcrypt v5.0.1]
+- [dotenv v16.0.1]
+- [ejs v3.1.8]
+- [express v4.18.1]
+- [express-flash 0.0.2]
+- [express-session v1.17.3]
+- [nodemon 2.0.18]
+- [passport-local v1.0.0]
 
 ## Running the tests
 
