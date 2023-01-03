@@ -9,14 +9,14 @@ Initially developed on
 
 Following are the prerequisites on the target computer for the project implementation
  
-- [bcrypt v5.0.1]
-- [dotenv v16.0.1]
-- [ejs v3.1.8]
-- [express v4.18.1]
-- [express-flash 0.0.2]
-- [express-session v1.17.3]
-- [nodemon 2.0.18]
-- [passport-local v1.0.0]
+- bcrypt v5.0.1
+- dotenv v16.0.1
+- ejs v3.1.8
+- express v4.18.1
+- express-flash 0.0.2
+- express-session v1.17.3
+- nodemon 2.0.18
+- passport-local v1.0.0
 
 ## Running the tests
 
