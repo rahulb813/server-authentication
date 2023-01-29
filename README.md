@@ -18,9 +18,6 @@ Following are the prerequisites on the target computer for the project implement
 - nodemon 2.0.18
 - passport-local v1.0.0
 
-## Running the tests
-
-The functionality of the webpage can be checked here
 
 ### Sample Tests
 
